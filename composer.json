@@ -1,5 +1,5 @@
 {
-    "name": "egmohamed/laravel-bunny-stream-filesystem-adapter",
+    "name": "eg-mohamed/laravel-bunny-stream-filesystem-adapter",
     "description": "Use Bunny Stream Filesystem Adapter for Laravel application",
     "type": "library",
     "require": {
@@ -25,7 +25,7 @@
     },
     "authors": [
         {
-            "name": "EG.Mohamed"
+            "name": "EG-Mohamed"
         }
     ]
 }
