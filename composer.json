@@ -25,7 +25,8 @@
     },
     "authors": [
         {
-            "name": "EG-Mohamed"
+            "name": "EG-Mohamed",
+            "email": "info@msaied.com" 
         }
     ]
 }
