@@ -26,7 +26,7 @@ and remember to add the environment variables in your `.env` file:
 
 ```dotenv
 BUNNY_STREAM_HOSTNAME=your-stream-cdn.b-cdn.net
-BUNNY_API_KEY=your-api-key
+BUNNY_STREAM_API_KEY=your-api-key
 BUNNY_STREAM_LIBRARY_ID=123456
 ```
 
