@@ -6,7 +6,7 @@ This is Laravel Filesystem's Driver for simple integration with Laravel.
 
 ## Installation
 ```bash
-composer require iamriajul/laravel-bunny-stream-filesystem-adapter
+composer require eg-mohamed/laravel-bunny-stream-filesystem-adapter
 ```
 
 ## Configuration
